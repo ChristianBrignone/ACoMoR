@@ -21,4 +21,4 @@ This [video](https://youtu.be/DSioZE_8FHM) highlights the main features of ACoMo
 
 Stay tuned, a new entirely redisigned version of ACoMoR is coming soon! 
 
-<img src="https://github.com/ChristianBrignone/ACoMoR/blob/main/Images/ACoMoR2.0.png" width="300" >
+<img src="https://github.com/ChristianBrignone/ACoMoR/blob/main/Images/ACoMoR2.0.png" width="220" >
